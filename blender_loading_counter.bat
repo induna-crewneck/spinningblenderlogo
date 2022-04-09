@@ -8,7 +8,7 @@ color 6
 set counter=0
 :LOOP
 echo You have sat through %counter% spins.
-if %counter% gtr 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) 
+if %counter% geq 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) else (echo.)
 echo.	
 echo.	
 echo.	
@@ -31,7 +31,7 @@ echo.
 echo.	
 cls
 echo You have sat through %counter% spins.
-if %counter% gtr 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) 
+if %counter% geq 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) else (echo.) 
 echo.	
 echo.	
 echo.	
@@ -54,7 +54,7 @@ echo.
 echo.	
 cls
 echo You have sat through %counter% spins.
-if %counter% gtr 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) 
+if %counter% geq 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) else (echo.) 
 echo.	
 echo.	
 echo.	
@@ -77,7 +77,7 @@ echo.
 echo.	
 cls
 echo You have sat through %counter% spins.
-if %counter% gtr 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) 
+if %counter% geq 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) else (echo.) 
 echo.	
 echo.	
 echo.	
@@ -100,7 +100,7 @@ echo.
 echo.	
 cls
 echo You have sat through %counter% spins.
-if %counter% gtr 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) 
+if %counter% geq 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) else (echo.) 
 echo.	
 echo.	
 echo 	                   /(/,                           
@@ -123,7 +123,7 @@ echo.
 echo.	
 cls
 echo You have sat through %counter% spins.
-if %counter% gtr 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) 
+if %counter% geq 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) else (echo.) 
 echo.	
 echo.	
 echo 	                      ,@@/,                       
@@ -146,7 +146,7 @@ echo.
 echo.	
 cls
 echo You have sat through %counter% spins.
-if %counter% gtr 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) 
+if %counter% geq 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) else (echo.) 
 echo.	
 echo.	
 echo 	           ,@@@@/         ,@#.                    
@@ -169,7 +169,7 @@ echo.
 echo.	
 cls
 echo You have sat through %counter% spins.
-if %counter% gtr 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) 
+if %counter% geq 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) else (echo.) 
 echo.	
 echo.	
 echo 	                @@@@@@                            
@@ -192,7 +192,7 @@ echo.
 echo.	
 cls
 echo You have sat through %counter% spins.
-if %counter% gtr 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) 
+if %counter% geq 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) else (echo.) 
 echo.	
 echo 	                    @@@@(                         
 echo 	                    ,@@@@@                        
@@ -215,7 +215,7 @@ echo.
 echo.	
 cls
 echo You have sat through %counter% spins.
-if %counter% gtr 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) 
+if %counter% geq 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) else (echo.) 
 echo.	
 echo 	                        .@@@@.                    
 echo 	                         (@@@@                    
@@ -238,7 +238,7 @@ echo.
 echo.	
 cls
 echo You have sat through %counter% spins.
-if %counter% gtr 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) 
+if %counter% geq 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) else (echo.) 
 echo.	
 echo 	                             *@@#.                
 echo 	                             #@@@#                
@@ -261,7 +261,7 @@ echo.
 echo.	
 cls
 echo You have sat through %counter% spins.
-if %counter% gtr 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) 
+if %counter% geq 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) else (echo.) 
 echo.	
 echo 	                                  .,              
 echo 	                                 (@@@(            
@@ -284,7 +284,7 @@ echo.
 echo.	
 cls
 echo You have sat through %counter% spins.
-if %counter% gtr 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) 
+if %counter% geq 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) else (echo.) 
 echo.	
 echo.	
 echo 	                                       .          
@@ -307,7 +307,7 @@ echo.
 echo.	
 cls
 echo You have sat through %counter% spins.
-if %counter% gtr 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) 
+if %counter% geq 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) else (echo.) 
 echo.	
 echo.	
 echo.	
@@ -330,7 +330,7 @@ echo.
 echo.	
 cls
 echo You have sat through %counter% spins.
-if %counter% gtr 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) 
+if %counter% geq 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) else (echo.) 
 echo.	
 echo.	
 echo.	
@@ -353,7 +353,7 @@ echo.
 echo.	
 cls
 echo You have sat through %counter% spins.
-if %counter% gtr 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) 
+if %counter% geq 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) else (echo.) 
 echo.	
 echo.	
 echo.	
@@ -376,7 +376,7 @@ echo.
 echo.	
 cls
 echo You have sat through %counter% spins.
-if %counter% gtr 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) 
+if %counter% geq 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) else (echo.) 
 echo.	
 echo.	
 echo.	
@@ -399,7 +399,7 @@ echo.
 echo.	
 cls
 echo You have sat through %counter% spins.
-if %counter% gtr 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) 
+if %counter% geq 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) else (echo.) 
 echo.	
 echo.	
 echo.	
@@ -422,7 +422,7 @@ echo.
 echo.	
 cls
 echo You have sat through %counter% spins.
-if %counter% gtr 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) 
+if %counter% geq 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) else (echo.) 
 echo.	
 echo.	
 echo.	
@@ -445,7 +445,7 @@ echo.
 echo.	
 cls
 echo You have sat through %counter% spins.
-if %counter% gtr 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) 
+if %counter% geq 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) else (echo.) 
 echo.	
 echo.	
 echo.	
@@ -468,7 +468,7 @@ echo.
 echo.	
 cls
 echo You have sat through %counter% spins.
-if %counter% gtr 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) 
+if %counter% geq 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) else (echo.) 
 echo.	
 echo.	
 echo.	
@@ -491,7 +491,7 @@ echo 	                         .
 echo.	
 cls
 echo You have sat through %counter% spins.
-if %counter% gtr 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) 
+if %counter% geq 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) else (echo.) 
 echo.	
 echo.	
 echo.	
@@ -514,7 +514,7 @@ echo 	                                  .(/.
 echo.	
 cls
 echo You have sat through %counter% spins.
-if %counter% gtr 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) 
+if %counter% geq 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) else (echo.) 
 echo.	
 echo.	
 echo.	
@@ -537,7 +537,7 @@ echo 	                             @@@@@.
 echo 	                               ,.                 
 cls
 echo You have sat through %counter% spins.
-if %counter% gtr 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) 
+if %counter% geq 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) else (echo.) 
 echo.	
 echo.	
 echo.	
@@ -560,7 +560,7 @@ echo 	                        ,@@@@@
 echo 	                         .(#@*                    
 cls
 echo You have sat through %counter% spins.
-if %counter% gtr 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) 
+if %counter% geq 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) else (echo.) 
 echo.	
 echo.	
 echo.	
@@ -583,7 +583,7 @@ echo 	                       ,@*
 echo.	
 cls
 echo You have sat through %counter% spins.
-if %counter% gtr 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) 
+if %counter% geq 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) else (echo.) 
 echo.	
 echo.	
 echo.	
@@ -606,7 +606,7 @@ echo 	                /@.
 echo.	
 cls
 echo You have sat through %counter% spins.
-if %counter% gtr 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) 
+if %counter% geq 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) else (echo.) 
 echo.	
 echo.	
 echo.	
@@ -629,7 +629,7 @@ echo 	             /@@,
 echo.	
 cls
 echo You have sat through %counter% spins.
-if %counter% gtr 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) 
+if %counter% geq 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) else (echo.) 
 echo.	
 echo.	
 echo.	
@@ -652,7 +652,7 @@ echo.
 echo.	
 cls
 echo You have sat through %counter% spins.
-if %counter% gtr 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) 
+if %counter% geq 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) else (echo.) 
 echo.	
 echo.	
 echo.	
@@ -675,7 +675,7 @@ echo.
 echo.	
 cls
 echo You have sat through %counter% spins.
-if %counter% gtr 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) 
+if %counter% geq 69 (echo YOU ARE OFFICIALLY A BLENDER ARTIST :-^)) else (echo.) 
 echo.	
 echo.	
 echo.	
